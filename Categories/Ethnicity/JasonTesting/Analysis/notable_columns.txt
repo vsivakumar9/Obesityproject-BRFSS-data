@@ -1,0 +1,4 @@
+Interesting Columns:
+Health Problems Requiring Special Equipment - USEEQUIP
+Activity Limitation Due to Health Problems - QLACTLM2
+Satisfaction with life - LSATISFY
